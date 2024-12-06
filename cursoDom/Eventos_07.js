@@ -21,5 +21,3 @@ El evento más común es el "click", haremos algo cuando el usuario haga click
 
 // ---- Tercera forma y la más recomendada ----
 // mediante el metodo .addEventListener("nombreEvento", () => {})
-
-const saludar = (nombre) => console.log("Hola, " + nombre);

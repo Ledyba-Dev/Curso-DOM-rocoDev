@@ -65,6 +65,3 @@
 // | 
 // | elemento.style = "border: 1px solid orange;"
 //------------------------------------
-
-
-const fonso = document.querySelector("#fonso");
