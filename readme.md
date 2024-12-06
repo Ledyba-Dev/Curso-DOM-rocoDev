@@ -4,7 +4,7 @@
 - Aprenderemos que es el DOM.
 ---
 
-##  Buscar Elementos en el DOM
+##  Buscar y guardar elementos en el DOM
 - `getElementById()`
 - `getElementsByClassName()`
 - `getElementsByName()`

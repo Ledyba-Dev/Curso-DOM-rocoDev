@@ -4,7 +4,7 @@
     - Que es el DOM
 
 -----------------------------
-1 BUSCAR ELEMENTOS EN DEL DOM
+1 BUSCAR Y GUARDAR ELEMENTOS EN EL DOM
 -----------------------------
     - getElementBy()
     - getElementsByClassName()
